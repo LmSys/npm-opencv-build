@@ -79,5 +79,6 @@ export const defaultCmakeFlags = [
   '-DBUILD_opencv_ts=OFF',
   '-DBUILD_opencv_xobjdetect=OFF',
   '-DBUILD_opencv_xphoto=OFF',
-  '-DWITH_VTK=OFF'
+  '-DWITH_VTK=OFF',
+  '-DWITH_CUDA=ON'
 ]
